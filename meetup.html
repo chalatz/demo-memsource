@@ -56,7 +56,7 @@ permalink: /user-meet-up-boston-2018/
         <h1 class="section-title">
             {{ site.data.program.title }}
         </h1>
-    </header
+    </header>
 
     <div class="section-content">
     
@@ -81,5 +81,38 @@ permalink: /user-meet-up-boston-2018/
         </p>
 
     </div>
+
+</section>
+
+<section class="page-section section-program">
+
+    <header class="section-header">
+        <h1 class="section-title">
+            {{ site.data.speakers.title }}
+        </h1>
+    </header>
+
+    <div class="speakers">
+
+        {% for speaker in site.data.speakers.items %}
+            <div class="speaker">
+
+                <div class="speaker-photo">
+                    <img src="{{ speaker.photo | relative_url }}" alt="">
+                </div>
+
+                <div class="speaker-name">
+                    {{ speaker.name }}
+                </div>
+
+                <div class="speaker-description">
+                    {{ speaker.description }}
+                </div>
+
+            </div>        
+        {% endfor %}
+
+    </div>
+
 
 </section>

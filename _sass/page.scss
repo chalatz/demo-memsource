@@ -9,6 +9,7 @@
 
 .section-header {
     text-align: center;
+    margin-bottom: 1em;
 }
 
 .section-title {
@@ -17,4 +18,19 @@
     font-weight: normal;
     border-bottom: 3px solid #666;
     display: inline-block;
+}
+
+.speakers {
+    overflow: hidden;
+}
+
+.speaker {
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+.speaker-name {
+    font-size: 20px;
+    font-weight: bold;
 }
