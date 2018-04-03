@@ -1,13 +1,57 @@
 ---
 layout: page
 title: Memsource User Meetup Boston
-event_date: Tuesday, 13 March 2018; 15:00-17:00'
+event_date: Tuesday, 13 March 2018; 15:00-17:00
 location:
-    name: John B. Hynes Veterans Memorial Convention Center
-    url:  https://signatureboston.com/hynes
+    name:       John B. Hynes Veterans Memorial Convention Center
+    url:        https://signatureboston.com/hynes
     directions: next to the Sheraton Boston Hotel
-    place: Room 107 
+    place:      Room 107 
 permalink: /user-meet-up-boston-2018/
 ---
 
-<p>The meetup page</p>
+<p class="centered">
+    {{ page.event_date }}
+</p>
+
+<p class="centered">
+    {% if page.location.url %}
+        <a href="{{ page.location.url }}" target="_blank">
+            {{- page.location.name -}}
+        </a>        
+    {% else %}
+        {{ page.location.name }}
+    {% endif %}
+
+    {% if page.location.directions %}
+        ({{ page.location.directions }})
+    {% endif %}
+</p>
+
+{% if page.location.place %}
+    <p class="centered">
+        {{ page.location.place }}
+    </p>
+{% endif %}
+
+<div class="centered">
+    <a class="btn" href="#register">REGISTER NOW</a>
+</div>
+
+<section class="page-section">
+
+    <p>
+        Join our 8th <strong>Memsource User Meetup</strong> for a chance to learn about the latest and upcoming developments at Memsource, engage in conversation about industry trends, meet other Memsource users, ask questions and provide feedback.
+    </p>
+
+    <p>
+        The event is free to attend and is open to all interested parties. Please <a href="#register">register</a> below, and follow us on social media and visit our blog to stay up-to-date on all things Memsource.
+    </p>
+
+</section>
+
+<section class="page-section section-program">
+    <h1 class="section-header">
+        {{ site.data.program.title }}
+    </h1>
+</section>
