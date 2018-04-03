@@ -8,7 +8,7 @@ items:
   - time: 3:30 pm
     description: '<strong>Looking to the Future: AI-powered Features in Memsource</strong> by Memsource CEO David Canek'
   - time: 3:45 pm
-    description: 'Exclusive Case Study on Memsource AI-powered Non-translatables by Semantix Solutions Architect Christophe Eyraud'
+    description: 'Exclusive <strong>Case Study on Memsource AI-powered Non-translatables</strong> by Semantix Solutions Architect Christophe Eyraud'
   - time: 4:00 pm
     description: 'David shares a glimpse at what’s next for Memsource'
   - time: 4:15 pm
@@ -18,6 +18,6 @@ items:
   - time: 5:00 pm
     description: 'Closing remarks'
   - time: 6:00 pm
-    description: 'GALA conference welcome reception'
+    description: '<a href="https://www.gala-global.org/conference/gala-2018-boston/evening-activities" target="_blank">GALA conference welcome reception</a>'
 
     
