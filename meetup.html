@@ -51,7 +51,21 @@ permalink: /user-meet-up-boston-2018/
 </section>
 
 <section class="page-section section-program">
-    <h1 class="section-header">
-        {{ site.data.program.title }}
-    </h1>
+
+    <header class="section-header">
+        <h1 class="section-title">
+            {{ site.data.program.title }}
+        </h1>
+    </header
+
+    <div class="section-content">
+    
+    {% for item in site.data.program.items %}
+        <p>
+            <strong>{{ item.time }}</strong> {{ item.description }}
+        </p>
+    {% endfor %}
+
+    </div>
+
 </section>
