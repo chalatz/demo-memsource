@@ -49,3 +49,7 @@ input[type=email] {
     border: 1px solid #666;
     padding: 1em .5em;
 }
+
+.en:lang(en), .jp:lang(jp) {
+    font-weight: bold;
+}

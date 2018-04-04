@@ -1,9 +1,20 @@
 <header class="site-header" role="banner">
 
   <div class="wrapper">
+    {%- include langs-selector.html -%}
+
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    {%- assign index_suffix = '/' -%}
+
+    {%- unless page.lang == 'en' -%}
+      {%- assign index_suffix = '/' | append: page.lang -%}
+    {%- endunless -%}
+
+    <a class="site-title" rel="author" href="{{ index_suffix | relative_url }}">{{ site.title | escape }}</a>
+
+    page lang: {{ page.lang }}
 
     {%- if page_paths -%}
       <nav class="site-nav">
