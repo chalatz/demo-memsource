@@ -8,6 +8,14 @@
             </li>
         {% endfor %}
 
+    {% else %}
+
+        {% for lang in site.langs %}
+            <li>
+                <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+            </li>
+        {% endfor %}
+
     {% endunless %}
 </ul>
         
