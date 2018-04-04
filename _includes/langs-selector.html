@@ -11,9 +11,17 @@
     {% else %}
 
         {% for lang in site.langs %}
+
+            {% assign index_suffix = '/' %}
+
+            {% unless lang == 'en' %}
+                {% assign index_suffix = '/' | append: lang %}
+            {% endunless %}
+
             <li>
-                <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                <a href="{{ index_suffix | relative_url }}" {%- if lang == page.lang -%}class="bold"{%- endif -%}>{{ lang }}</a>
             </li>
+
         {% endfor %}
 
     {% endunless %}
