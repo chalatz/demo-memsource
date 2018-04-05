@@ -4,7 +4,9 @@ date: 2018-04-05 00:00:00 +0000
 lang: en
 image: "/uploads/2018/04/05/Talent-Endorsement-Program-1.png"
 ---
-Back in 2016, when I became responsible for the Memsource Academic  Edition and our partnerships with academic institutions in general, my  main goal was simple. I wanted to spread the love and present the  benefits of cooperating with Memsource to as many academic institutions  as possible. ![](/uploads/2018/04/05/graph.png)
+Back in 2016, when I became responsible for the Memsource Academic  Edition and our partnerships with academic institutions in general, my  main goal was simple. I wanted to spread the love and present the  benefits of cooperating with Memsource to as many academic institutions as possible.
+
+![](/uploads/2018/04/05/graph.png)
 
 As the number of universities offering training in Memsource grew – and  quite significantly, I must compliment myself, as it doubled from 56 to  103 in a year – the objectives began to shift. We used 2017 to better  understand our clients, the professors supporting our program, and  knowing how they worked with Memsource and how we could adapt the  program to better suit their expectations.
 
