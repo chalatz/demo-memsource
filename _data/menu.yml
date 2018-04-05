@@ -12,9 +12,9 @@ languages:
   - language: "jp"
     links:
     - title: "Home - jp"
-      url: /
+      url: /ja/
     - title: "Boston meetup 2018 - jp"
-      url: /jp/user-meet-up-boston-2018/
+      url: /ja/user-meet-up-boston-2018/
     - title: "ブログ"
-      url: /jp/blog/
+      url: /ja/blog/
 

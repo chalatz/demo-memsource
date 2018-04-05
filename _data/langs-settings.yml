@@ -2,3 +2,8 @@
 langs:
   - en
   - jp
+
+  # define the url segment for each language
+segment:
+  en: en
+  jp: ja

@@ -15,7 +15,8 @@
             {% assign index_suffix = '/' %}
 
             {% unless lang == 'en' %}
-                {% assign index_suffix = '/' | append: lang %}
+                {% assign url_segment = site.data.langs-settings.segment[lang] %}
+                {% assign index_suffix = '/' | append: url_segment %}
             {% endunless %}
 
             <li>
