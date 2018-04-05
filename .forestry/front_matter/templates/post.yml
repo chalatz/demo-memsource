@@ -17,3 +17,6 @@ fields:
   label: lang
   config:
     required: true
+- type: file
+  name: image
+  label: image
