@@ -56,13 +56,13 @@ ref: boston-meetup-2018
 
     <header class="section-header">
         <h1 class="section-title">
-            {{ site.data.program.title }}
+            {{ site.data.program[page.lang].title }}
         </h1>
     </header>
 
     <div class="section-content">
     
-        {% for item in site.data.program.items %}
+        {% for item in site.data.program[page.lang].items %}
             <p>
                 <strong>{{ item.time }}</strong> {{ item.description }}
             </p>
