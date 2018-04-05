@@ -17,6 +17,8 @@ languages:
       url: /ja/
     - title: "ボストンミートアップ 2018"
       url: /ja/user-meet-up-boston-2018/
+    - title: "翻訳者(Linguist)用動画・PDFマニュアル"
+      url: /ja/liguist-movie-and-manual/
     - title: "ブログ"
       url: /ja/blog/
 
