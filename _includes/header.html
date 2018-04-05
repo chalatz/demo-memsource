@@ -9,7 +9,8 @@
     {%- assign index_suffix = '/' -%}
 
     {%- unless page.lang == 'en' -%}
-      {%- assign index_suffix = '/' | append: page.lang -%}
+      {% assign url_segment = site.data.langs-settings.segment[page.lang] %}
+      {%- assign index_suffix = '/' | append: url_segment -%}
     {%- endunless -%}
 
     <a class="site-title" rel="author" href="{{ index_suffix | relative_url }}">{{ site.title | escape }}</a>
