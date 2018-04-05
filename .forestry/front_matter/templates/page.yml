@@ -1,6 +1,4 @@
 ---
-pages:
-- dede.md
 hide_body: false
 fields:
 - type: text
@@ -11,6 +9,8 @@ fields:
 - type: text
   name: permalink
   label: permalink
+  config:
+    required: true
 - type: text
   name: lang
   label: lang
