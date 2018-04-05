@@ -17,3 +17,9 @@ fields:
 - type: text
   name: ref
   label: ref
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  config:
+    required: true
