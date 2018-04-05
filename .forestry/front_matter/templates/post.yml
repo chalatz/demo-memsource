@@ -21,12 +21,12 @@ fields:
   name: image
   label: image
 - type: text
+  name: permalink
+  label: permalink
+- type: text
   name: layout
   label: layout
   hidden: true
   config:
     required: true
   default: post
-- type: text
-  name: permalink
-  label: permalink
