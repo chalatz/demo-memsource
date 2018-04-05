@@ -1,4 +1,4 @@
-<ul>
+<ul class="langs-selector">
     {% unless page.layout == 'post' %}
         
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
