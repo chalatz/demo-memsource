@@ -13,7 +13,7 @@
       {%- assign index_suffix = '/' | append: url_segment -%}
     {%- endunless -%}
 
-    <a class="site-title" rel="author" href="{{ index_suffix | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ index_suffix | relative_url }}">{{ site.data.settings.title | escape }}</a>
 
     <nav class="site-nav">
 

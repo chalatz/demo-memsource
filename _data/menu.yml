@@ -6,14 +6,16 @@ languages:
       url: /
     - title: "Boston meetup 2018"
       url: /user-meet-up-boston-2018/
+    - title: "Liguist movie and manual"
+      url: /liguist-movie-and-manual/
     - title: "Blog"
       url: /blog/
 
   - language: "jp"
     links:
-    - title: "Home - jp"
+    - title: "ホームページ"
       url: /ja/
-    - title: "Boston meetup 2018 - jp"
+    - title: "ボストンミートアップ 2018"
       url: /ja/user-meet-up-boston-2018/
     - title: "ブログ"
       url: /ja/blog/
