@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/en/connecting-students-with-the-industry.md
 hide_body: false
 fields:
 - type: text
