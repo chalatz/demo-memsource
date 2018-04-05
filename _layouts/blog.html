@@ -11,15 +11,19 @@ layout: default
 <ul class="post-list">
     {%- for post in posts -%}
         <li>
-            {%- assign date_format = site.minima.date_format | default: "%m / %d / %Y" -%}
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
             <h3>
                 <a class="post-link" href="{{ post.url | relative_url }}">
                     {% if post.image %}
                         <img class="post-header-img" src="{{ post.image | relative_url }}" alt="">
                     {% endif %}
+                    
                     {{ post.title | escape }}
+                    
                 </a>
+
+                {%- assign date_format = site.minima.date_format | default: "%m / %d / %Y" -%}
+                <span class="post-meta">{{ post.date | date: date_format }}</span>
+
             </h3>
             
             {{ post.excerpt }}
