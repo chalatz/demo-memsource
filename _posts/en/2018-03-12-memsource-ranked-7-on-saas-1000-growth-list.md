@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Memsource Ranked 7 on SaaS 1000 Growth List
 date: 2018-03-12 16:25:00 +0000
 lang: en

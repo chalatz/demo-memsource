@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Connecting Students with the Industry
 date: 2018-03-21 15:48:52 +0000
 lang: en
