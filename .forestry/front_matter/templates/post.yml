@@ -20,3 +20,9 @@ fields:
 - type: file
   name: image
   label: image
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  config:
+    required: true
