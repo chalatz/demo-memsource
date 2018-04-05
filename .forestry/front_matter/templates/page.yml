@@ -14,3 +14,6 @@ fields:
   label: lang
   config:
     required: true
+- type: text
+  name: ref
+  label: ref
