@@ -5,7 +5,7 @@ fields:
   name: title
   label: Title
   config:
-    required: false
+    required: true
 - type: text
   name: permalink
   label: permalink
