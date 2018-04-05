@@ -27,3 +27,6 @@ fields:
   config:
     required: true
   default: post
+- type: text
+  name: permalink
+  label: permalink
