@@ -1,7 +1,4 @@
 ---
-pages:
-- _posts/en/2018-04-05-memsource-ranked-7-on-saas-1000-growth-list.md
-- _posts/en/2018-04-05-connecting-students-with-the-industry.md
 hide_body: false
 fields:
 - type: text
@@ -23,3 +20,13 @@ fields:
 - type: file
   name: image
   label: image
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  config:
+    required: true
+  default: post
