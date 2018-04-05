@@ -1,16 +1,16 @@
 ---
-pages:
-- dede.md
 hide_body: false
 fields:
 - type: text
   name: title
   label: Title
   config:
-    required: false
+    required: true
 - type: text
   name: permalink
   label: permalink
+  config:
+    required: true
 - type: text
   name: lang
   label: lang
