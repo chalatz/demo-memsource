@@ -13,8 +13,7 @@ Memsource, which provides an AI-powered translation management system  for the l
 
 With the growth, several new teams were formed with the goal of  expanding business services and generating innovation, such as the [Artificial Intelligence](https://www.memsource.com/blog/2018/01/09/memsource-releasing-first-feature-powered-by-artificial-intelligence/) team, the Quality Assurance team, and the Solutions Architect team.
 
-<iframe width=”560” height=”315” src=”https://www.youtube.com/embed/dHHmUF9gs70” frameborder=”0” allowfullscreen></iframe>
-
+<iframe width=”560” height=”315” src=”https://www.youtube.com/embed/dHHmUF9gs70” frameborder=”0” allowfullscreen> </iframe>
 
     [[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
 
@@ -26,12 +25,10 @@ Read more about [Memsource’s exciting year](https://www.memsource.com/blog/201
 
 Here's our logo (hover to see the title text):
 
-Inline-style: 
+Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+Reference-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2")
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dHHmUF9gs70/0.jpg)](http://www.youtube.com/watch?v=dHHmUF9gs70)
