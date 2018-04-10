@@ -13,7 +13,7 @@ Memsource, which provides an AI-powered translation management system  for the l
 
 With the growth, several new teams were formed with the goal of  expanding business services and generating innovation, such as the [Artificial Intelligence](https://www.memsource.com/blog/2018/01/09/memsource-releasing-first-feature-powered-by-artificial-intelligence/) team, the Quality Assurance team, and the Solutions Architect team.
 
-<iframe width=”560” height=”315” src=”https://www.youtube.com/embed/dHHmUF9gs70” frameborder=”0” allowfullscreen> </iframe>
+<iframe width=”560” height=”315” src=”https://www.youtube.com/embed/dHHmUF9gs70” frameborder=”0” allowfullscreen></iframe>
 
     [[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
 
