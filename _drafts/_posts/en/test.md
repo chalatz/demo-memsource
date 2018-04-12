@@ -31,3 +31,5 @@ For example, when designing a brochure or book, a designer will insert Lorem ips
 The important factor when using Lorem ipsum text is that the text looks realistic otherwise the brochure or book will not look very good. Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
 
 Common names for Lorem ipsum text include:
+
+![](/uploads/2018/04/12/Submit-request-help-center.gif)
