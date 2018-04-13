@@ -28,7 +28,7 @@ _“The  industry-academic partnerships play a huge role as they give the  stude
 
 _–_ [Hana Laurenzo](https://www.linkedin.com/in/hanalaurenzo/), Founder and CEO of [Teneo Linguistics Company](https://www.tlctranslation.com/)
 
-The project was started with the help of Hana and the Teneo Linguistics  Company, as well as the two universities where the first student  participants came from: Middlebury Institute of International Studies at  Monterey and University of Puerto Rico.  
+The project was started with the help of Hana and the Teneo Linguistics  Company, as well as the two universities where the first student  participants came from: Middlebury Institute of International Studies at  Monterey and University of Puerto Rico.
 
 ![](/uploads/2018/04/05/Hana-Laurenzo-Quote.png)
 
@@ -40,11 +40,11 @@ _“The  cooperation has helped me practice with the program, and it has also  g
 
 ## Let It Grow!
 
-Building on the positive feedback and invaluable experience we gained  during the pilot, we’re scaling it into a full-scale project this year.  This means that we will offer it to a larger number of both universities  and translation agencies.  
+Building on the positive feedback and invaluable experience we gained  during the pilot, we’re scaling it into a full-scale project this year.  This means that we will offer it to a larger number of both universities  and translation agencies.
 
-![](/uploads/2018/04/05/tag.png)
+![](/uploads/2018/04/05/tag.png =30x)
 
-Since we want to be able to ensure high level of knowledge and skills of  the students we promote, however, we have decided to limit the program  to professors and students meeting certain criteria:  
+Since we want to be able to ensure high level of knowledge and skills of  the students we promote, however, we have decided to limit the program  to professors and students meeting certain criteria:
 
 * The department has to be part of our [Memsource Student Certification Program](https://www.memsource.com/memsource-student-certification-program/), which means that the professor has to be a [Memsource Certified Trainer](https://www.memsource.com/trainers/). This also means that we have discussed the form of Memsource training with the professor and found it exceptional.
 * The student must pass the student certification with excellent results.
