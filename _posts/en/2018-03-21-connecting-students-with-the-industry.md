@@ -7,7 +7,7 @@ image: "/uploads/2018/04/05/Talent-Endorsement-Program-1.png"
 ---
 Back in 2016, when I became responsible for the Memsource Academic  Edition and our partnerships with academic institutions in general, my  main goal was simple. I wanted to spread the love and present the  benefits of cooperating with Memsource to as many academic institutions  as possible.
 
-![](/uploads/2018/04/05/graph.png)
+![](/uploads/2018/04/05/graph.png){:width="30%"}
 
 As the number of universities offering training in Memsource grew – and  quite significantly, I must compliment myself, as it doubled from 56 to  103 in a year – the objectives began to shift. We used 2017 to better  understand our clients, the professors supporting our program, and  knowing how they worked with Memsource and how we could adapt the  program to better suit their expectations.
 
@@ -30,7 +30,7 @@ _–_ [Hana Laurenzo](https://www.linkedin.com/in/hanalaurenzo/), Founder and C
 
 The project was started with the help of Hana and the Teneo Linguistics  Company, as well as the two universities where the first student  participants came from: Middlebury Institute of International Studies at  Monterey and University of Puerto Rico.
 
-![](/uploads/2018/04/05/Hana-Laurenzo-Quote.png)
+![](/uploads/2018/04/05/Hana-Laurenzo-Quote.png){:width="30%"}
 
 Hana’s decision to join the pilot project was straightforward: “It  seems there simply is no downside! The linguists who work with us are  the pillar of our business. We rely on them day in and day out.  Therefore, we are always on the lookout for new talent and appreciate  being connected with students who, one day, may become an important  resource to us. We also invest a lot of effort into training and  educating those who work with us. So we have been on the same page with  Memsource from the start.”
 
