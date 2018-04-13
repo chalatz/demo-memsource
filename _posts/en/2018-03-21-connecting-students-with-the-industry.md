@@ -42,7 +42,7 @@ _“The  cooperation has helped me practice with the program, and it has also  g
 
 Building on the positive feedback and invaluable experience we gained  during the pilot, we’re scaling it into a full-scale project this year.  This means that we will offer it to a larger number of both universities  and translation agencies.
 
-![](/uploads/2018/04/05/tag.png =30x)
+![](/uploads/2018/04/05/tag.png)
 
 Since we want to be able to ensure high level of knowledge and skills of  the students we promote, however, we have decided to limit the program  to professors and students meeting certain criteria:
 
