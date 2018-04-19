@@ -1,7 +1,9 @@
 ---
 pages:
+- _posts/en/sarah-s-test-blog-post.md
 - _posts/en/test.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: title
